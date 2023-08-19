@@ -1,0 +1,12 @@
+.cardlist{
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+    min-width: 300px;
+    max-width: 300px;
+}
+
+
